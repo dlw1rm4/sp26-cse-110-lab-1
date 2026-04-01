@@ -1,6 +1,6 @@
 # Kaitlyn's CSE 110 User Page
 ## About Me (not really)
-[Click here to skip to my technical experience](##About-Me-(but-technical))
+[Click here to skip to my technical experience](#about-me-but-technical)
 
 I really like chocolate, *particularly* milk chocolate. You're probably reading this and thinking, "Oh, that's normal." 
 
