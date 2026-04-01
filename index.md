@@ -26,7 +26,7 @@ Here is an [article](https://greenamerica.org/end-child-labor-cocoa/chocolate-sc
 Oh, and I also **love** cats (and mofusand!). I have a mofusand named Kuma.
 
 <img src="cat.jpg" alt="This is my friend's cat.">
-<img src="mofusand.jpg" alt="This is Kuma.">
+<img src="kuma.jpg" alt="This is Kuma.">
 
 Here's a list of the mofusand characters on the official animation website:
 - Shark Meow
